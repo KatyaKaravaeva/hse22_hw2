@@ -10,7 +10,9 @@
 
 --> [Ссылка на коллаб](https://colab.research.google.com/drive/1Fb3RaFlAJlkegB7lP--cvQQvzIEV_ElE?usp=sharing) <--
 
+#### Ссылка на бонусную часть работы:
 
+--> [Ссылка на коллаб](https://colab.research.google.com/drive/143X2_O4FIGuRfh7iwLVF6llLoY66d8Yo?usp=sharing) <--
 
 #### Информация
 
@@ -21,3 +23,9 @@
 > Удалось аннотировать с помощью БД SwissProt - 53
 > 
 > Количество белков, которые остались без аннотации функции - 279
+>
+> Процент % сходства между соответствующими рРНК:
+
+
+![image](https://github.com/KatyaKaravaeva/hse22_hw2/blob/main/screens/first.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw2/blob/main/screens/second.png)
