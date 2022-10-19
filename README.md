@@ -4,4 +4,20 @@
 
 #### Ссылка на первую часть работы:
 
---> [Ссылка на коллаб](https://colab.research.google.com/drive/170Hx1GorcvNqXh2auwUk_O2mIo23SQFv?hl=ru#scrollTo=FaTs183wd0z6) <--
+--> [Ссылка на коллаб](https://colab.research.google.com/drive/170Hx1GorcvNqXh2auwUk_O2mIo23SQFv?usp=sharing) <--
+
+#### Ссылка на вторую часть работы:
+
+--> [Ссылка на коллаб](https://colab.research.google.com/drive/1Fb3RaFlAJlkegB7lP--cvQQvzIEV_ElE?usp=sharing) <--
+
+
+
+#### Информация
+
+> Генов предсказано - 3611
+> 
+> Удалось аннотировать с помощью сравнения с бактерией MIL-1 - 3662
+> 
+> Удалось аннотировать с помощью БД SwissProt - 53
+> 
+> Количество белков, которые остались без аннотации функции - 279
